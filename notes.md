@@ -79,3 +79,37 @@ applications
 nvim 
 what is nvim
 
+
+aur .deb .exe packages how it works
+
+reserve words in programming languages
+
+bash zsh neovim c++ c java python php 
+
+libra tutorial
+
+
+list and explain libra office
+list and explain neovim
+list and explain bash
+list and explain zsh
+list and explain c++
+list and explain c lang
+list and explain java
+list and explain php
+list and explain python
+list and explain php
+list and explain packages
+list and explain .deb .exe packages
+list and explain operating systems
+list and explain networking
+list and explain DSA data structure and alogrithm
+list and explain git github
+list and explain google storage gmail networking
+list and explain motherboard
+list and explain screen
+list and explain keyboard
+list and explain mouse
+list and explain touchpad
+list and explain 
+list and explain 
