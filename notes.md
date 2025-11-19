@@ -88,7 +88,23 @@ bash zsh neovim c++ c java python php
 
 libra tutorial
 
+networking
+dsa
 
+read about and type here
+
+resources
+chatgpt
+youtube
+open source files and packages
+manpages
+github
+where is firefox source code is located
+source code of poupular websites
+tradingview
+
+
+list and explain kali
 list and explain libra office
 list and explain neovim
 list and explain bash
@@ -111,5 +127,59 @@ list and explain screen
 list and explain keyboard
 list and explain mouse
 list and explain touchpad
-list and explain 
-list and explain 
+list and explain clipboard
+list and explain screen recoding
+list and explain server
+list and explain MCA master in computer application
+list and explain terminal
+list and explain android
+list and explain ios
+list and explain windows
+list and explain virtual machine
+list and explain virtualization
+list and explain camera
+list and explain touchscreen
+list and explain battery
+list and explain microsoft office
+list and explain cloud
+list and explain web
+list and explain domain
+list and explain ip
+list and explain data communication and networking
+list and explain terminal applications
+list and explain terminal applications in kali linux
+list and explain websites
+list and explain webapplications
+list and explain security vulnerablities
+list and explain ai
+list and explain cyber forensic
+list and explain browser
+list and explain youtube
+list and explain google search engine
+list and explain html
+list and explain xml
+list and explain error codes in websites webpages
+list and explain webversion
+list and explain frontend and backend
+list and explain firefox
+list and explain chrome
+list and explain apache
+list and explain pdf
+list and explain cyptocurrency
+list and explain bitcoin
+
+
+application
+write nvim
+developement environment nvim
+
+
+
+
+
+starting with neovim java php se
+
+
+
+
+
